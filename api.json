@@ -2,101 +2,101 @@
 {
     "id":1,
     "precio" : 150.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/1.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/1.jpg"
 },
 {
     "id":2,
     "precio" : 250.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/2.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/2.jpg"
 },
 {
     "id":3,
     "precio" : 100.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/3.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/3.jpg"
 },
 {
     "id":4,
     "precio" : 300.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/4.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/4.jpg"
 },
 {
     "id":5,
     "precio" : 75.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/5.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/5.jpg"
 },
 {
     "id":6,
     "precio" : 90.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/6.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/6.jpg"
 },
 {
     "id":7,
     "precio" : 120.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/7.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/7.jpg"
 },
 {
     "id":8,
     "precio" : 80.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/8.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/8.jpg"
 },
 {
     "id":9,
     "precio" : 50.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/9.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/9.jpg"
 },
 {
     "id":10,
     "precio" : 110.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/10.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/10.jpg"
 },
 {
     "id":11,
     "precio" : 150.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/11.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/11.jpg"
 },
 {
     "id":12,
     "precio" : 140.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/12.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/12.jpg"
 },
 {
     "id":13, 
     "precio" : 95.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/13.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/13.jpg"
 },
 {
     "id":14,
     "precio" : 80.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/14.png"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/14.png"
 },
 {
     "id":15,
     "precio" : 300.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/15.png"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/15.png"
 },
 {
     "id":16,
     "precio" : 220.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/16.png"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/16.png"
 },
 {
     "id":17,
     "precio" : 250.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/17.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/17.jpg"
 },
 {
     "id":18,
     "precio" : 275.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/18.png"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/18.png"
 },
 {
     "id":19,
     "precio" : 190.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/19.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/19.jpg"
 },
 {
     "id":20,
     "precio" : 130.00,
-    "miniUrl": "https://github.com/Grenstafox/Productos/tree/main/img/20.jpg"
+    "miniUrl": "https://grenstafox.github.io/Productos/img/20.jpg"
 }
 ]
